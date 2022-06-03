@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich Presence.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich_Presence.Form1.resources
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich_Presence.Properties.Resources.resources
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich Presence.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich Presence.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rich Presence\bin\Debug\Rich Presence.exe.config
+C:\Users\User\source\repos\Rich Presence\bin\Debug\Rich Presence.exe
+C:\Users\User\source\repos\Rich Presence\bin\Debug\Rich Presence.pdb
+C:\Users\User\source\repos\Rich Presence\bin\Debug\DiscordRPC.dll
+C:\Users\User\source\repos\Rich Presence\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Rich Presence\bin\Debug\DiscordRPC.pdb
+C:\Users\User\source\repos\Rich Presence\bin\Debug\DiscordRPC.xml
+C:\Users\User\source\repos\Rich Presence\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich Presence.csproj.CopyComplete
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich Presence.exe
+C:\Users\User\source\repos\Rich Presence\obj\Debug\Rich Presence.pdb
